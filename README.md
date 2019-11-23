@@ -1,0 +1,2 @@
+# sejmstats
+Statystyki Sejmu
